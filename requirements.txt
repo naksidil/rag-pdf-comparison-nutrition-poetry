@@ -1,0 +1,10 @@
+PyMuPDF
+tqdm
+sentence-transformers
+transformers
+accelerate
+bitsandbytes
+pandas
+numpy
+torch
+spacy
